@@ -1,0 +1,19 @@
+canvas {
+  background: white;
+  display: block;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+
+#reset {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 15px 30px;
+  font-size: 20px;
+  background: lightgray;
+  border: 2px solid black;
+  cursor: pointer;
+  display: none;
+}
