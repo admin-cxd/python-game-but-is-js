@@ -132,7 +132,7 @@ function draw() {
   } else {
     ctx.fillStyle = "black";
     ctx.font = "64px sans-serif";
-    ctx.fillText("get ready child", width / 2 - 180, height / 2);
+    ctx.fillText("get ready ethan huang", width / 2 - 180, height / 2);
   }
 
   requestAnimationFrame(draw);
